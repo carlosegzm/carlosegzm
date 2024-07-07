@@ -15,21 +15,19 @@ ___
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Main+Skills)](https://git.io/typing-svg)
 
 
-
 <div align="center">
 <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="80" width=90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="80" width=90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="80" width=90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="HTML" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Java" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
 </div> 
 <br>
 
 
 ___
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosegzm&theme=blue_navy&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carlosegzm?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosegzm&theme=blue_navy&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
 
 <div align="center">
 
