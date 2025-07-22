@@ -1,42 +1,114 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Carlos+Eduardo;+Mas+pode+me+chamar+de+Cadu)](https://git.io/typing-svg)
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
- ___
+<h1 align="center">
+  <b>Hi there, I'm</b> <a href="https://github.com/carlosegzm">Cadu</a>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7giphy.gif" width="30">
+</h1>
+
 <br>
 
-<div align="center">
-  <a href="https://github.com/carlosegzm">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosegzm&amp;show_icons=true&amp;theme=blue_navy&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true&amp;hide=contribs"style="margin-right: 10px;">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosegzm&amp;layout=compact&amp;langs_count=7&amp;theme=blue_navy">
-</a></div>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp;
+  <b><i>About Me</i></b>
+</p>
+
+<p align="center">
+🎓 I'm Carlos Eduardo, but you can call me Cadu. I'm 19 years old and currently studying for a Bachelor's degree in Computer Science at the Federal Institute of Santa Catarina (IFSC), Campus Lages.<br><br>
+📚 I'm in the 4th semester (out of 8) and always seeking to expand my knowledge in both backend and frontend development.<br><br>
+💡 I enjoy learning about modern software architecture, distributed systems, APIs, and cloud technologies.<br><br>
+🤝 I value collaboration, clean and maintainable code, and continuous improvement.
+</p>
+
 <br>
 
-___
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Main+Skills)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp;
+  <b><i>Skills</i></b>
+</p>
 
+<h6 align="center">Main Skills</h6>
 
-<div align="center">
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="70" width=80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-</div> 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,mysql,css" />
+  </a>
+</p>
+
+<h6 align="center">Interested In</h6>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=spring,angular,typescript,docker" />
+  </a>
+</p>
+
+<h6 align="center">Development Tools</h6>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,git,github,windows" />
+  </a>
+</p>
+
 <br>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-___
+<p align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;
+  <b><i>GitHub Stats</i></b>
+</p>
 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carlosegzm?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=blue) 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carlosegzm&theme=blue_navy&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
+<br>
 
-<div align="center">
+<p align="center">
+<table align="center">
+<tr>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=carlosegzm&theme=blue_navy&show_icons=true&count_private=true" />
+    <br><br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=carlosegzm&theme=blue_navy&hide_border=false" alt="carlosegzm streak" />
+</td>
+<td width="50%" align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosegzm&theme=blue_navy&hide_border=false&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
 
-</div>
+<br>
 
-___
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4682B4&size=35&center=true&vCenter=true&width=1000&lines=Contact)](https://git.io/typing-svg)
-<a href="https://instagram.com/carlosegzm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-4682B4?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:carloseduardogarcezmattos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=120&section=footer"/>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=carlosegzm&theme=onestar&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="85%" />
+</p>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlos-eduardo-garcez-mattos-634623376">
+    <img src="https://img.shields.io/badge/LinkedIn-%235e98e1.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:carlosegm3012@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%235e98e1.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/carlosegzm?igsh=MXVqemcxc3RweGJi">
+    <img src="https://img.shields.io/badge/Instagram-%235e98e1.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=carlosegzm&color=blue" />
+</p>
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
