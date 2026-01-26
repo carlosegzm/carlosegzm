@@ -32,15 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,mysql,css" />
-  </a>
-</p>
-
-<h6 align="center">Interested In</h6>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=spring,angular,typescript,docker" />
+    <img src="https://skillicons.dev/icons?i=java,spring,docker,postgres,aws" />
   </a>
 </p>
 
@@ -48,7 +40,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=idea,git,github,windows" />
+    <img src="https://skillicons.dev/icons?i=idea,git,github,postman,windows" />
   </a>
 </p>
 
