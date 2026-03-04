@@ -20,11 +20,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">&nbsp;
-  <b><i>Skills</i></b>
-</p>
-
 <h4 align="center">Main Skills</h4>
 
 <p align="center">
@@ -43,18 +38,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">🌐 Connect With Me</h2>
+<h2 align="center">📌 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/carlos-eduardo-garcez-mattos-634623376" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/carlosegzm/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" /></a>&nbsp;&nbsp;&nbsp;
   <a href="mailto:carlosegm3012@gmail.com" target="_blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="Gmail" height="30" /></a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/carlosegzm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carlosegzm&color=blue" alt="Profile views" />
 </p>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
